@@ -1,0 +1,15 @@
+.env
+.env.*
+node_modules/
+dist/
+build/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+logs/
+tmp/
